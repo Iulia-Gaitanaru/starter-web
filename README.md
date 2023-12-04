@@ -14,7 +14,7 @@ As stated above, the main pupose is to provide sample website with plenty of fil
 This is a simple web project, deployment can be on any web server or even local file system.
 
 ## How to Contribute
-
+Please fork this repo and then issue pull requests for review.
 
 ###Copyright
 2023 Git.Training
