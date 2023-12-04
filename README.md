@@ -2,6 +2,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work together.
+Add a line for rebasing example.
 
 ## Introduction
 This example is to show different oarts of th eGit repository and various commands using a web project.
